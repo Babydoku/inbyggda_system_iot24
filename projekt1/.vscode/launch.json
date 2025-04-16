@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Applications/inbyggda_system_iot24/projekt1/ultrasonic",
+      "program": "/Applications/inbyggda_system_iot24/projekt1/ultrasonic/build/Debug/outDebug"
+    }
+  ]
+}

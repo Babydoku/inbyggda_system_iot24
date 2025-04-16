@@ -1,0 +1,18 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/Users/regissoren/esp/v5.4/esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32c6-bridge.cfg"
+    ],
+    "idf.port": "/dev/tty.usbserial-10",
+    "idf.toolsPath": "/Users/regissoren/.espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "math.h": "c",
+        "reent.h": "c",
+        "configuration.h": "c"
+    },
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32c6"
+    }
+}
